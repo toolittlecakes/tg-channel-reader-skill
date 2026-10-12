@@ -2,7 +2,6 @@
 name: tg-channel-reader
 description: CLI reader for public Telegram channel preview pages and public Discussion Widget comments. Use when the user wants to export public Telegram channel posts, media metadata, reactions, links, and comments without Telegram login.
 allowed-tools: Bash(tg-channel-read:*), Bash(npx -y tg-channel-reader:*)
-hidden: true
 ---
 
 # tg-channel-reader
